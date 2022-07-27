@@ -14,12 +14,6 @@
     overflow: hidden;
 }
 
-
-/* Graphe */
-
-
-/* Graphe Left */
-
 .graphe {
     display: flex;
     margin: auto;
@@ -31,8 +25,6 @@
     width: 7vw;
 }
 
-
-/* Graphe Middle */
 
 .img-list {
     display: flex;
@@ -91,9 +83,6 @@
     margin-left: 8px;
 }
 
-
-/* Graphe Right */
-
 .graphe-right {
     position: relative;
 }
@@ -115,7 +104,7 @@
 }
 
 
-/* ===================================Carousel============================================= */
+
 
 #orange {
     width: 33%;
@@ -169,7 +158,6 @@
 }
 
 
-/* Bottom Side */
 
 .bottom-side {
     display: flex;
